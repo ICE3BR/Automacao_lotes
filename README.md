@@ -201,6 +201,6 @@ O arquivo **testesLotes.xlsx** deve conter ao menos:
 
 # 📜 Licença
 
-Uso interno — Equipe Legal Ops.
+Uso interno — Equipe Interna.
 
 ---
